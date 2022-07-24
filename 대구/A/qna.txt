@@ -1,0 +1,38 @@
+1.
+제목 : 안녕하세요
+등록일자 : 2022-8-1
+더 보기 내용 :
+Lorem Ipsum is simply dummy text of the printing 
+and typesetting industry. Lorem Ipsum has been the industry's standard dummy 
+
+
+
+2.
+제목 : 또만났네요
+등록일자 : 2022-7-29
+더 보기 내용 :
+text ever since the 1500s, when an unknown printer took a galley of type 
+and scrambled it to make a type specimen book. It has survived not only five centuries
+
+
+3.
+제목 : 그건뭔가요?
+등록일자 : 2022-7-20
+더 보기 내용 :
+but also the leap into electronic typesetting, remaining essentially unchanged. 
+It was popularised in the 1960s with the release of Letraset sheets containing 
+
+
+4.
+제목 : 그건뭔가요?
+등록일자 : 2022-7-11
+더 보기 내용 :
+Lorem Ipsum passages, and more recently with desktop publishing software like 
+Aldus PageMaker including versions of Lorem Ipsum.
+
+5.
+제목 : 그건뭔가요?
+등록일자 : 2022-7-3
+더 보기 내용 :
+and typesetting industry. Lorem Ipsum has been the industry's standard dummy 
+text ever since the 1500s, when an unknown printer took a galley of type 
